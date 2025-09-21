@@ -1,5 +1,7 @@
 # TruckersVN Saveedit tool
 ## Đây là repository chứa Release của các phiên bản TruckersVN Tool. Repos này không chứa source code.
+- Vui lòng truy cập [trang Releases](https://github.com/lesongvi/truckersvn-saveedit-tool/releases) để tải về phiên bản mới nhất.
+  
 ## Cách sử dụng TruckersVN Tool
 1. Tải phiên bản mới nhất của TruckersVN Tools.
 2. Giải nén, chạy file `truckersvn-tool.exe`
