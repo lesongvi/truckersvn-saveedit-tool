@@ -77,11 +77,11 @@
 - Khám phá toàn bộ bản đồ
 - Quản lý màu xe tải
 
-<img width="1228" height="868" alt="image" src="https://github.com/user-attachments/assets/10049bb6-5980-4936-967d-fd1c1d1ccd20" />
+<img alt="image" src="https://github.com/user-attachments/assets/10049bb6-5980-4936-967d-fd1c1d1ccd20" width="30%" />
 
-<img width="1226" height="374" alt="image" src="https://github.com/user-attachments/assets/d03da7b9-f803-4407-920e-e079685f77a8" />
+<img alt="image" src="https://github.com/user-attachments/assets/d03da7b9-f803-4407-920e-e079685f77a8" width="30%" />
 
-<img width="1228" height="720" alt="image" src="https://github.com/user-attachments/assets/118c8910-8a60-48ac-9208-67daaf01e781" />
+<img alt="image" src="https://github.com/user-attachments/assets/118c8910-8a60-48ac-9208-67daaf01e781" width="30%" />
 
 ## Author
 - Lê Song Vĩ, <vi@lsv.vn>
