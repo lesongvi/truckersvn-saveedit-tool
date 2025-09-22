@@ -15,5 +15,73 @@
 - Quản lý các bộ phận phương tiện (save edit, độ chế phương tiện)
 - Sẽ có thêm nhiều tính năng trong tương lai
 
+
+### Việc cần làm
+
+- [x] ATS compatibility
+- [x] Dịch chuyển
+- [ ] Độ chế trailer
+- [ ] Đa ngôn ngữ
+
+#### Trailer
+
+- [ ] Chỉnh sửa khối lượng thùng
+- [ ] Chỉnh sửa khối lượng hàng
+- [ ] Mở khóa thùng ở khu vực hạn chế (thùng đôi, thùng triple)
+- [ ] Sửa thùng
+- [ ] Sửa tất cả thùng
+- [ ] Tạo biển số custom
+- [ ] Lưu dữ liệu biển số
+- [ ] Đổi thùng nhanh
+
+#### Xe tải
+
+- [ ] Sửa chữa xe tải
+- [ ] Sửa chữa tất cả xe tải
+- [ ] Sửa nhiên liệu xe tải
+- [ ] Nạp nhiên liệu
+- [ ] Nạp nhiên liệu cho tất cả xe tải
+- [ ] Tạo biển số custom
+- [ ] Lưu dữ liệu biển số
+- [ ] Thay đổi động cơ và hộp số (UI)
+- [ ] Chỉnh sửa số km đã đi
+- [x] Đổi xe nhanh
+
+#### Save edit
+- [x] Độ chế xe cực kỳ flexible bằng editor
+
+#### Hồ sơ
+
+- [x] Chỉnh sửa số tiền
+- [x] Chỉnh sửa kinh nghiệm
+- [ ] Mở khóa garage
+- [ ] Mở khóa thành phố
+- [ ] Mở khóa đại lý bán xe
+- [ ] Mở khóa kỹ năng
+- [ ] Backup hồ sơ
+- [ ] Clone hồ sơ
+- [ ] Đổi tên hồ sơ
+- [ ] Đổi tên công ty
+
+#### Cài đặt
+
+- [ ] Đường dẫn đến Documents
+- [ ] Dark Mode
+- [ ] Đổi ngôn ngữ
+- [ ] Đổi convoy mode slot lên `128`
+
+#### Tính năng hữu ích có thể sẽ thêm trong tương lai
+
+- Chia sẻ trailer và xe tải bằng link
+- Tài khoản
+- Khám phá toàn bộ bản đồ
+- Quản lý màu xe tải
+
+<img width="1228" height="868" alt="image" src="https://github.com/user-attachments/assets/10049bb6-5980-4936-967d-fd1c1d1ccd20" />
+
+<img width="1226" height="374" alt="image" src="https://github.com/user-attachments/assets/d03da7b9-f803-4407-920e-e079685f77a8" />
+
+<img width="1228" height="720" alt="image" src="https://github.com/user-attachments/assets/118c8910-8a60-48ac-9208-67daaf01e781" />
+
 ## Author
 - Lê Song Vĩ, <vi@lsv.vn>
