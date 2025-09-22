@@ -85,7 +85,7 @@
 <img alt="image" src="https://github.com/user-attachments/assets/118c8910-8a60-48ac-9208-67daaf01e781" width="30%" />
 
 ## Ghi chú
-- Vì đây là dự án cá nhân nhỏ nên tôi chỉ làm khi nào rảnh, vào cuối tuần gì đó. Nếu bạn phát hiện bug hãy liên hệ với tôi qua email ở phần [#author], tôi sẽ trả lời nhanh nhất có thể. Ở những kênh liên lạc khác có thể sẽ có chậm trễ. Cảm ơn.
+- Vì đây là dự án cá nhân nhỏ nên tôi chỉ làm khi nào rảnh, vào cuối tuần gì đó. Nếu bạn phát hiện bug hãy liên hệ với tôi qua email ở phần [Author](#author), tôi sẽ trả lời nhanh nhất có thể. Ở những kênh liên lạc khác có thể sẽ có chậm trễ. Cảm ơn.
 
 ## Author
 - Lê Song Vĩ, <vi@lsv.vn>
