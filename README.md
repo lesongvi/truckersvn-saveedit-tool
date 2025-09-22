@@ -20,6 +20,7 @@
 
 - [x] ATS compatibility
 - [x] Dịch chuyển
+- [x] Tự đọng cấu hình profile sau khi dịch chuyển (độ hao mòn các thành phần, độ hao mòn các thành phần không thể sửa chữa, khối lượng các thành phần, nhiên liệu, biển số, kết nối rơ-moóc,...)
 - [ ] Độ chế trailer
 - [ ] Đa ngôn ngữ
 
