@@ -33,9 +33,7 @@
 - [ ] Mở khóa thùng ở khu vực hạn chế (thùng đôi, thùng triple)
 - [ ] Sửa thùng
 - [ ] Sửa tất cả thùng
-- [ ] Tạo biển số custom
-- [ ] Lưu dữ liệu biển số
-- [ ] Đổi thùng nhanh
+- [x] Đổi thùng nhanh
 
 #### Xe tải
 
@@ -44,31 +42,37 @@
 - [ ] Sửa nhiên liệu xe tải
 - [ ] Nạp nhiên liệu
 - [ ] Nạp nhiên liệu cho tất cả xe tải
-- [ ] Tạo biển số custom
-- [ ] Lưu dữ liệu biển số
 - [ ] Thay đổi động cơ và hộp số (UI)
 - [ ] Chỉnh sửa số km đã đi
 - [x] Đổi xe nhanh
 
 #### Save edit
 - [x] Độ chế xe cực kỳ flexible bằng editor
+- [x] Độ chế thùng cực kỳ flexible bằng editor
+- [ ] Độ chế thùng đôi và nhiều hơn
+- [x] Tạo biển số custom
+- [x] Lưu dữ liệu biển số
 
 #### Hồ sơ
 
 - [x] Chỉnh sửa số tiền
 - [x] Chỉnh sửa kinh nghiệm
-- [ ] Mở khóa garage
-- [ ] Mở khóa thành phố
-- [ ] Mở khóa đại lý bán xe
-- [ ] Mở khóa kỹ năng
+- [x] Mở khóa garage
+- [x] Mở khóa thành phố
+- [x] Mở khóa đại lý bán xe
+- [x] Mở khóa kỹ năng
 - [ ] Backup hồ sơ
+- [x] Backup hồ sơ (tự động)
 - [ ] Clone hồ sơ
+- [x] Tải lên file save
 - [ ] Đổi tên hồ sơ
 - [ ] Đổi tên công ty
 
 #### Cài đặt
 
-- [ ] Đường dẫn đến Documents
+- [x] Đường dẫn đến Documents
+- [x] Cài đặt console
+- [x] Cài đặt developer mode
 - [ ] Dark Mode
 - [ ] Đổi ngôn ngữ
 - [ ] Đổi convoy mode slot lên `128`
