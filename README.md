@@ -19,12 +19,13 @@
 - Nếu bạn chỉ cần decrypt file SII, bạn có thể qua tab "Save edit", chọn hồ sơ sau đó tiếp tục chọn folder chứa game.sii và info.sii mà bạn muốn decrypt. Công cụ sẽ decrypt nhanh cho bạn. Sau đó bạn có thể bấm nút "Mở thư mục file save đã chọn" để mở nhanh folder chứa file save đó và bắt đầu chỉnh sửa bằng notepad.
 
 ### Việc cần làm
-
-- [x] ATS compatibility
-- [x] Dịch chuyển
-- [x] Tự đọng cấu hình profile sau khi dịch chuyển (độ hao mòn các thành phần, độ hao mòn các thành phần không thể sửa chữa, khối lượng các thành phần, nhiên liệu, biển số, kết nối rơ-moóc,...)
-- [ ] Độ chế trailer
+- [ ] ATS compatibility (full)
 - [ ] Đa ngôn ngữ
+
+#### Teleport
+- [x] ATS compatibility
+- [x] Dịch chuyển nhanh (không cần thoát ra ứng dụng)
+- [x] Tự động cấu hình profile sau khi dịch chuyển (độ hao mòn các thành phần, độ hao mòn các thành phần không thể sửa chữa, khối lượng các thành phần, nhiên liệu, biển số, kết nối rơ-moóc,...)
 
 #### Trailer
 
@@ -52,6 +53,7 @@
 - [ ] Độ chế thùng đôi và nhiều hơn
 - [x] Tạo biển số custom
 - [x] Lưu dữ liệu biển số
+- [x] Tránh conflict tập tin
 
 #### Hồ sơ
 
@@ -64,7 +66,8 @@
 - [ ] Backup hồ sơ
 - [x] Backup hồ sơ (tự động)
 - [ ] Clone hồ sơ
-- [x] Tải lên file save
+- [x] Tải lên tập tin save
+- [x] Tải lên hồ sơ
 - [ ] Đổi tên hồ sơ
 - [ ] Đổi tên công ty
 
