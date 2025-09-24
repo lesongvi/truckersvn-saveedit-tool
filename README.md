@@ -1,14 +1,21 @@
-# TruckersVN Saveedit tool
-## Đây là repository chứa Release của các phiên bản TruckersVN Tool. Repos này không chứa source code.
-- Vui lòng truy cập [trang Releases](https://github.com/lesongvi/truckersvn-saveedit-tool/releases) để tải về phiên bản mới nhất.
-  
+# TruckersVN Saveedit tool (công cụ saveedit nhẹ nhất thời điểm hiện tại)
+
+## Vui lòng truy cập [trang Releases](https://github.com/lesongvi/truckersvn-saveedit-tool/releases) để tải về phiên bản mới nhất.
+
+## Tại sao lại là công cụ nhẹ nhất hiện tại?
+
+- TruckersVN Tool hoàn toàn bỏ đi sự cần thiết của việc phải chạy UI bên trên máy tính người dùng. Thay vào đó, người dùng chỉ cần điều khiển công cụ qua web browser. Dưới máy tính chỉ cần cài đặt một chương trình nhỏ gọn (chưa tới 5 MB) để giao tiếp với trình duyệt và xử lý các tác vụ saveedit.
+
 ## Cách sử dụng TruckersVN Tool
+
 1. Tải phiên bản mới nhất của TruckersVN Tools.
 2. Giải nén, chạy file `truckersvn-tool.exe`
 3. Truy cập và sử dụng công cụ qua [bảng điều khiển công cụ](https://truckers.vn/tools/tvn-tool/)
 
 ## Các chức năng hiện tại
+
 > Lưu ý: _danh sách tính năng này có thể không được cập nhật trên README.md thường xuyên, hãy truy cập bảng điều khiển để biết thêm chi tiết_
+
 - Dịch chuyển nhanh
 - Cấu hình phương tiện sau khi dịch chuyển (độ hao mòn các thành phần, độ hao mòn các thành phần không thể sửa chữa, khối lượng các thành phần, nhiên liệu, biển số, kết nối rơ-moóc,...)
 - Chỉnh sửa số tiền, kinh nghiệm
@@ -16,13 +23,16 @@
 - Sẽ có thêm nhiều tính năng trong tương lai
 
 #### Tip: Nếu bạn chỉ cần decrypt SII thay vì sử dụng công cụ trực quan
+
 - Nếu bạn chỉ cần decrypt file SII, bạn có thể qua tab "Save edit", chọn hồ sơ sau đó tiếp tục chọn folder chứa game.sii và info.sii mà bạn muốn decrypt. Công cụ sẽ decrypt nhanh cho bạn. Sau đó bạn có thể bấm nút "Mở thư mục file save đã chọn" để mở nhanh folder chứa file save đó và bắt đầu chỉnh sửa bằng notepad.
 
 ### Việc cần làm
+
 - [ ] ATS compatibility (full)
 - [ ] Đa ngôn ngữ
 
 #### Teleport
+
 - [x] ATS compatibility
 - [x] Dịch chuyển nhanh (không cần thoát ra ứng dụng)
 - [x] Tự động cấu hình profile sau khi dịch chuyển (độ hao mòn các thành phần, độ hao mòn các thành phần không thể sửa chữa, khối lượng các thành phần, nhiên liệu, biển số, kết nối rơ-moóc,...)
@@ -48,6 +58,7 @@
 - [x] Đổi xe nhanh
 
 #### Save edit
+
 - [x] Độ chế xe cực kỳ flexible bằng editor
 - [x] Độ chế thùng cực kỳ flexible bằng editor
 - [ ] Độ chế thùng đôi và nhiều hơn
@@ -94,7 +105,9 @@
 <img alt="image" src="https://github.com/user-attachments/assets/118c8910-8a60-48ac-9208-67daaf01e781" width="30%" />
 
 ## Ghi chú
+
 - Vì đây là dự án cá nhân nhỏ nên tôi chỉ làm khi nào rảnh, vào cuối tuần gì đó. Nếu bạn phát hiện bug hãy liên hệ với tôi qua email ở phần [Author](#author), tôi sẽ trả lời nhanh nhất có thể. Ở những kênh liên lạc khác có thể sẽ có chậm trễ. Cảm ơn.
 
 ## Author
+
 - Lê Song Vĩ, <vi@lsv.vn>
