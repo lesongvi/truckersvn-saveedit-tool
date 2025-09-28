@@ -26,6 +26,13 @@
 
 - Nếu bạn chỉ cần decrypt file SII, bạn có thể qua tab "Save edit", chọn hồ sơ sau đó tiếp tục chọn folder chứa game.sii và info.sii mà bạn muốn decrypt. Công cụ sẽ decrypt nhanh cho bạn. Sau đó bạn có thể bấm nút "Mở thư mục file save đã chọn" để mở nhanh folder chứa file save đó và bắt đầu chỉnh sửa bằng notepad.
 
+### Việc đang làm
+- Độ chế thùng đôi và nhiều hơn
+- Bookmark vị trí teleport
+
+### Cần thử nghiệm
+- Import/Export thùng
+
 ### Việc cần làm
 
 - [ ] ATS compatibility (full)
@@ -39,23 +46,26 @@
 
 #### Trailer
 
-- [ ] Chỉnh sửa khối lượng thùng
-- [ ] Chỉnh sửa khối lượng hàng
-- [ ] Mở khóa thùng ở khu vực hạn chế (thùng đôi, thùng triple)
-- [ ] Sửa thùng
+- [x] Chỉnh sửa khối lượng thùng
+- [x] Chỉnh sửa khối lượng hàng
+- [x] Mở khóa thùng ở khu vực hạn chế (thùng đôi, thùng triple)
+- [x] Sửa thùng
 - [ ] Sửa tất cả thùng
 - [x] Đổi thùng nhanh
+- [ ] Export thùng
+- [ ] Import thùng
 
 #### Xe tải
 
-- [ ] Sửa chữa xe tải
+- [x] Sửa chữa xe tải
 - [ ] Sửa chữa tất cả xe tải
-- [ ] Sửa nhiên liệu xe tải
-- [ ] Nạp nhiên liệu
+- [x] Nạp nhiên liệu
 - [ ] Nạp nhiên liệu cho tất cả xe tải
-- [ ] Thay đổi động cơ và hộp số (UI)
+- [x] Thay đổi động cơ và hộp số (UI)
 - [ ] Chỉnh sửa số km đã đi
 - [x] Đổi xe nhanh
+- [x] Export xe tải
+- [x] Import xe tải
 
 #### Save edit
 
