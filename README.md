@@ -2,6 +2,8 @@
 
 ## Vui lòng truy cập [trang Releases](https://github.com/lesongvi/truckersvn-saveedit-tool/releases) để tải về phiên bản mới nhất.
 
+## Công cụ vẫn đang trong giai đoạn BETA, dù tập tin có chức năng tự động backup file trước khi sửa, hãy cứ sao lưu một thư mục hồ sơ mới
+
 ## Tại sao lại là công cụ nhẹ nhất hiện tại?
 
 - TruckersVN Tool hoàn toàn bỏ đi sự cần thiết của việc phải chạy UI bên trên máy tính người dùng. Thay vào đó, người dùng chỉ cần điều khiển công cụ qua web browser. Dưới máy tính chỉ cần cài đặt một chương trình nhỏ gọn (chưa tới 5 MB) để giao tiếp với trình duyệt và xử lý các tác vụ saveedit.
@@ -27,16 +29,24 @@
 - Nếu bạn chỉ cần decrypt file SII, bạn có thể qua tab "Save edit", chọn hồ sơ sau đó tiếp tục chọn folder chứa game.sii và info.sii mà bạn muốn decrypt. Công cụ sẽ decrypt nhanh cho bạn. Sau đó bạn có thể bấm nút "Mở thư mục file save đã chọn" để mở nhanh folder chứa file save đó và bắt đầu chỉnh sửa bằng notepad.
 
 ### Việc đang làm
+
 - Độ chế thùng đôi và nhiều hơn
 - Bookmark vị trí teleport
 
 ### Cần thử nghiệm
+
 - Import/Export thùng
 
 ### Việc cần làm
 
 - [ ] ATS compatibility (full)
 - [ ] Đa ngôn ngữ
+
+### Chức năng đã hoàn thành
+
+#### Remote
+
+- [x] Hỗ trợ Remote (sử dụng được trên thiết bị di động, máy tính cùng mạng)
 
 #### Teleport
 
@@ -52,8 +62,8 @@
 - [x] Sửa thùng
 - [ ] Sửa tất cả thùng
 - [x] Đổi thùng nhanh
-- [ ] Export thùng
-- [ ] Import thùng
+- [x] Export thùng
+- [x] Import thùng
 
 #### Xe tải
 
