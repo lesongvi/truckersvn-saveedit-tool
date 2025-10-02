@@ -46,7 +46,7 @@
 
 #### Remote
 
-- [x] Hỗ trợ Remote (sử dụng được trên thiết bị di động, máy tính cùng mạng)
+- [x] Hỗ trợ Remote (kết nối và sử dụng công cụ trên thiết bị di động, máy tính bảng, các thiết bị khác..)
 
 #### Teleport
 
