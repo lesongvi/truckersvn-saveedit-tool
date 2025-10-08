@@ -2,7 +2,7 @@
 
 ## Vui lòng truy cập [trang Releases](https://github.com/lesongvi/truckersvn-saveedit-tool/releases) để tải về phiên bản mới nhất.
 
-## Công cụ vẫn đang trong giai đoạn BETA, đảm bảo cài đặt "Tự động sao lưu" được bật trong cấu hình công cụ, ngoài ra, hãy cứ sao lưu một thư mục hồ sơ mới. Bạn có thể sử dụng chức năng tải lên hồ sơ hoặc file save nếu hồ sơ của bạn quá lớn
+## Tính năng Save edit của công cụ vẫn đang trong giai đoạn BETA, hãy đảm bảo cài đặt "Tự động sao lưu" được bật trong cấu hình công cụ, ngoài ra, hãy cứ sao lưu một thư mục hồ sơ mới. Bạn có thể sử dụng chức năng tải lên hồ sơ hoặc file save nếu hồ sơ của bạn quá lớn.
 
 ## Tại sao lại là công cụ nhẹ nhất hiện tại?
 
