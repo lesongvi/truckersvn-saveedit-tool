@@ -1,18 +1,18 @@
-# TruckersVN Saveedit tool (công cụ saveedit nhẹ nhất thời điểm hiện tại)
+# TruckersVN Saveedit tool (công cụ saveedit nhẹ nhất thời điểm hiện tại, chưa tới 4 MB)
 
 ## Vui lòng truy cập [trang Releases](https://github.com/lesongvi/truckersvn-saveedit-tool/releases) để tải về phiên bản mới nhất.
 
-## Công cụ vẫn đang trong giai đoạn BETA, dù tập tin có chức năng tự động backup file trước khi sửa, hãy cứ sao lưu một thư mục hồ sơ mới
+## Công cụ vẫn đang trong giai đoạn BETA, đảm bảo cài đặt "Tự động sao lưu" được bật trong cấu hình công cụ, ngoài ra, hãy cứ sao lưu một thư mục hồ sơ mới. Bạn có thể sử dụng chức năng tải lên hồ sơ hoặc file save nếu hồ sơ của bạn quá lớn
 
 ## Tại sao lại là công cụ nhẹ nhất hiện tại?
 
-- TruckersVN Tool hoàn toàn bỏ đi sự cần thiết của việc phải chạy UI bên trên máy tính người dùng. Thay vào đó, người dùng chỉ cần điều khiển công cụ qua web browser. Dưới máy tính chỉ cần cài đặt một chương trình nhỏ gọn (chưa tới 5 MB) để giao tiếp với trình duyệt và xử lý các tác vụ saveedit.
+- TruckersVN Tool hoàn toàn bỏ đi sự cần thiết của việc phải chạy UI bên trên máy tính người dùng. Thay vào đó, người dùng chỉ cần điều khiển công cụ qua web browser. Dưới máy tính chỉ cần cài đặt một chương trình nhỏ gọn (chưa tới 4 MB) để giao tiếp với trình duyệt và xử lý các tác vụ saveedit.
 
 ## Cách sử dụng TruckersVN Tool
 
 1. Tải phiên bản mới nhất của TruckersVN Tools.
-2. Giải nén, chạy file `truckersvn-tool.exe`
-3. Truy cập và sử dụng công cụ qua [bảng điều khiển công cụ](https://truckers.vn/tools/tvn-tool/)
+2. Giải nén, chạy file `truckersvn-tool.exe`. Sẽ có một icon hiển thị ở góc dưới bên phải màn hình của bạn để bạn biết rằng công cụ đang hoạt động.
+3. Nhấn chuột phải vào icon HG và chọn "Mở bảng điều khiển" hoặc truy cập trực tiếp qua [https://truckers.vn/tools/tvn-tool/](https://truckers.vn/tools/tvn-tool/).
 
 ## Các chức năng hiện tại
 
@@ -22,19 +22,22 @@
 
 - Nếu bạn chỉ cần decrypt file SII, bạn có thể qua tab "Save edit", chọn hồ sơ sau đó tiếp tục chọn folder chứa game.sii và info.sii mà bạn muốn decrypt. Công cụ sẽ decrypt nhanh cho bạn. Sau đó bạn có thể bấm nút "Mở thư mục file save đã chọn" để mở nhanh folder chứa file save đó và bắt đầu chỉnh sửa bằng notepad.
 
-### Việc đang làm
+### Việc đang làm (có thể release trong phiên bản tiếp theo)
 
 - Độ chế thùng đôi và nhiều hơn
 - Bookmark vị trí teleport
+- Standardize import/export truck/trailer data
+- Anti AFK
 
-### Cần thử nghiệm
+### Cần thử nghiệm (đã release nhưng vẫn trong giai đoạn thử nghiệm)
 
-- Import/Export thùng
+- Tất cả chức năng liên quan tới save edit
+- Đặc biệt là:
+  - Import/export rơ moóc
+### Việc sẽ lên dự định làm (chưa lên kế hoạch release)
 
-### Việc cần làm
-
-- [ ] ATS compatibility (full)
-- [ ] Đa ngôn ngữ
+- ATS compatibility (full)
+- Đa ngôn ngữ
 
 ### Chức năng đã hoàn thành
 
@@ -113,7 +116,7 @@
 
 - Chia sẻ trailer và xe tải bằng link
 - Tài khoản
-- Khám phá toàn bộ bản đồ
+- Khám phá toàn bộ đường đi trên bản đồ
 - Quản lý màu xe tải
 
 <img alt="image" src="https://github.com/user-attachments/assets/10049bb6-5980-4936-967d-fd1c1d1ccd20" width="30%" />
