@@ -26,7 +26,6 @@
 
 - Độ chế rơ moóc đôi và nhiều hơn
 - Bookmark vị trí teleport
-- Standardize import/export truck/trailer data
 - Anti AFK
 
 ### Cần thử nghiệm (đã release nhưng vẫn trong giai đoạn thử nghiệm)
@@ -38,6 +37,7 @@
 
 - ATS compatibility (full)
 - Đa ngôn ngữ
+- Standardize import/export truck/trailer data
 
 ### Chức năng đã hoàn thành
 
