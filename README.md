@@ -16,7 +16,7 @@
 
 ## Các chức năng hiện tại
 
-> Lưu ý: _danh sách tính năng này có thể không được cập nhật trên README.md thường xuyên, hãy truy cập bảng điều khiển để biết thêm chi tiết_
+> Lưu ý: _danh sách tính năng này có thể không được cập nhật trên README.md thường xuyên, hãy truy cập bảng điều khiển để tự khám phá_
 
 #### Tip: Nếu bạn chỉ cần decrypt SII thay vì sử dụng công cụ trực quan
 
