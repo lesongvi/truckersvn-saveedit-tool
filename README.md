@@ -18,12 +18,6 @@
 
 > Lưu ý: _danh sách tính năng này có thể không được cập nhật trên README.md thường xuyên, hãy truy cập bảng điều khiển để biết thêm chi tiết_
 
-- Dịch chuyển nhanh
-- Cấu hình phương tiện sau khi dịch chuyển (độ hao mòn các thành phần, độ hao mòn các thành phần không thể sửa chữa, khối lượng các thành phần, nhiên liệu, biển số, kết nối rơ-moóc,...)
-- Chỉnh sửa số tiền, kinh nghiệm
-- Quản lý các bộ phận phương tiện (save edit, độ chế phương tiện)
-- Sẽ có thêm nhiều tính năng trong tương lai
-
 #### Tip: Nếu bạn chỉ cần decrypt SII thay vì sử dụng công cụ trực quan
 
 - Nếu bạn chỉ cần decrypt file SII, bạn có thể qua tab "Save edit", chọn hồ sơ sau đó tiếp tục chọn folder chứa game.sii và info.sii mà bạn muốn decrypt. Công cụ sẽ decrypt nhanh cho bạn. Sau đó bạn có thể bấm nút "Mở thư mục file save đã chọn" để mở nhanh folder chứa file save đó và bắt đầu chỉnh sửa bằng notepad.
@@ -53,6 +47,7 @@
 - [x] ATS compatibility
 - [x] Dịch chuyển nhanh (không cần thoát ra ứng dụng)
 - [x] Tự động cấu hình profile sau khi dịch chuyển (độ hao mòn các thành phần, độ hao mòn các thành phần không thể sửa chữa, khối lượng các thành phần, nhiên liệu, biển số, kết nối rơ-moóc,...)
+- [x] Có âm thanh phát ra sau khi dịch chuyển (có thể cài đặt)
 
 #### Trailer
 
@@ -64,6 +59,7 @@
 - [x] Đổi thùng nhanh
 - [x] Export thùng
 - [x] Import thùng
+- [x] Sao chép thùng của người chơi khác
 
 #### Xe tải
 
@@ -76,6 +72,7 @@
 - [x] Đổi xe nhanh
 - [x] Export xe tải
 - [x] Import xe tải
+- [x] Sao chép xe tải của người chơi khác
 
 #### Save edit
 
@@ -110,6 +107,7 @@
 - [ ] Dark Mode
 - [ ] Đổi ngôn ngữ
 - [ ] Đổi convoy mode slot lên `128`
+- [x] Cài đặt backup (tự động backup sau khi chỉnh sửa file)
 
 #### Tính năng hữu ích có thể sẽ thêm trong tương lai
 
