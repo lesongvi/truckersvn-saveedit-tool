@@ -119,11 +119,11 @@
 - Khám phá toàn bộ đường đi trên bản đồ
 - Quản lý màu xe tải
 
-<img alt="image" src="https://github.com/user-attachments/assets/10049bb6-5980-4936-967d-fd1c1d1ccd20" width="30%" />
+<!--<img alt="image" src="https://github.com/user-attachments/assets/10049bb6-5980-4936-967d-fd1c1d1ccd20" width="30%" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/d03da7b9-f803-4407-920e-e079685f77a8" width="30%" />
 
-<img alt="image" src="https://github.com/user-attachments/assets/118c8910-8a60-48ac-9208-67daaf01e781" width="30%" />
+<img alt="image" src="https://github.com/user-attachments/assets/118c8910-8a60-48ac-9208-67daaf01e781" width="30%" />-->
 
 ## Ghi chú
 
