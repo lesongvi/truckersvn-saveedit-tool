@@ -24,7 +24,7 @@
 
 ### Việc đang làm (có thể release trong phiên bản tiếp theo)
 
-- Độ chế thùng đôi và nhiều hơn
+- Độ chế rơ moóc đôi và nhiều hơn
 - Bookmark vị trí teleport
 - Standardize import/export truck/trailer data
 - Anti AFK
@@ -52,17 +52,17 @@
 - [x] Tự động cấu hình profile sau khi dịch chuyển (độ hao mòn các thành phần, độ hao mòn các thành phần không thể sửa chữa, khối lượng các thành phần, nhiên liệu, biển số, kết nối rơ-moóc,...)
 - [x] Có âm thanh phát ra sau khi dịch chuyển (có thể cài đặt)
 
-#### Trailer
+#### Rơ moóc
 
-- [x] Chỉnh sửa khối lượng thùng
+- [x] Chỉnh sửa khối lượng rơ moóc
 - [x] Chỉnh sửa khối lượng hàng
-- [x] Mở khóa thùng ở khu vực hạn chế (thùng đôi, thùng triple)
-- [x] Sửa thùng
-- [ ] Sửa tất cả thùng
-- [x] Đổi thùng nhanh
-- [x] Export thùng
-- [x] Import thùng
-- [x] Sao chép thùng của người chơi khác
+- [x] Mở khóa rơ moóc ở khu vực hạn chế (rơ moóc HCT, rơ moóc triple)
+- [x] Sửa rơ moóc
+- [ ] Sửa tất cả rơ moóc
+- [x] Đổi rơ moóc nhanh
+- [x] Export rơ moóc
+- [x] Import rơ moóc
+- [x] Sao chép rơ moóc của người chơi khác
 
 #### Xe tải
 
@@ -80,8 +80,8 @@
 #### Save edit
 
 - [x] Độ chế xe cực kỳ flexible bằng editor
-- [x] Độ chế thùng cực kỳ flexible bằng editor
-- [ ] Độ chế thùng đôi và nhiều hơn
+- [x] Độ chế rơ moóc cực kỳ flexible bằng editor
+- [ ] Độ chế rơ moóc đôi và nhiều hơn
 - [x] Tạo biển số custom
 - [x] Lưu dữ liệu biển số
 - [x] Tránh conflict tập tin
