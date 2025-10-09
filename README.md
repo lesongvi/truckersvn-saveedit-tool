@@ -25,10 +25,17 @@
 ### Việc đang làm (có thể release trong phiên bản tiếp theo)
 
 - Độ chế rơ moóc đôi và nhiều hơn
-- Bookmark vị trí teleport
-- Anti AFK
+- Hoàn thiện chức năng bookmark teleportation
+- Anti AFK, spam tin nhắn
 - Kiểm soát phiên bản tập trung, tự động cập nhật lên phiên bản mới
 - Chia sẻ GPS
+- Sắp xếp các nút trong phần Thông tin người chơi, chia thành 4 tab nhỏ "Người chơi", "Thiết lập", "Sao chép", "GPS"
+  - Người chơi: Thiết lập kỹ năng, Gỡ bỏ giới hạn thùng
+  - Thiết lập: Garage, thành phố, cửa hàng
+  - Sao chép (hay còn gọi là "ăn cắp", sorry not rude nhưng mà chức năng này đúng là vậy thật): Sao chép xe, sao chép thùng hàng (kể cả nhiều thùng)
+  - GPS: Chia sẻ GPS, cập nhật GPS
+- Thêm cài đặt chỉnh sửa chế độ convoy (official SCS multiplayer mode) lên 126 slots
+- Cải thiện performance get save files
 
 ### Cần thử nghiệm (đã release nhưng vẫn trong giai đoạn thử nghiệm)
 
