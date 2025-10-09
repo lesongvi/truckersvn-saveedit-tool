@@ -23,19 +23,7 @@
 - Nếu bạn chỉ cần decrypt file SII, bạn có thể qua tab "Save edit", chọn hồ sơ sau đó tiếp tục chọn folder chứa game.sii và info.sii mà bạn muốn decrypt. Công cụ sẽ decrypt nhanh cho bạn. Sau đó bạn có thể bấm nút "Mở thư mục file save đã chọn" để mở nhanh folder chứa file save đó và bắt đầu chỉnh sửa bằng notepad.
 
 ### Việc đang làm (có thể release trong phiên bản tiếp theo)
-
-- Độ chế rơ moóc đôi và nhiều hơn
-- Hoàn thiện chức năng bookmark teleportation
-- Anti AFK, spam tin nhắn
-- Kiểm soát phiên bản tập trung, tự động cập nhật lên phiên bản mới
-- Chia sẻ GPS
-- Sắp xếp các nút trong phần Thông tin người chơi, chia thành 4 tab nhỏ "Người chơi", "Thiết lập", "Sao chép", "GPS"
-  - Người chơi: Thiết lập kỹ năng, Gỡ bỏ giới hạn thùng
-  - Thiết lập: Garage, thành phố, cửa hàng
-  - Sao chép (hay còn gọi là "ăn cắp", sorry not rude nhưng mà chức năng này đúng là vậy thật): Sao chép xe, sao chép thùng hàng (kể cả nhiều thùng)
-  - GPS: Chia sẻ GPS, cập nhật GPS
-- Thêm cài đặt chỉnh sửa chế độ convoy (official SCS multiplayer mode) lên 126 slots
-- Cải thiện performance get save files
+- ...
 
 ### Cần thử nghiệm (đã release nhưng vẫn trong giai đoạn thử nghiệm)
 
@@ -60,12 +48,13 @@
 - [x] Dịch chuyển nhanh (không cần thoát ra ứng dụng)
 - [x] Tự động cấu hình profile sau khi dịch chuyển (độ hao mòn các thành phần, độ hao mòn các thành phần không thể sửa chữa, khối lượng các thành phần, nhiên liệu, biển số, kết nối rơ-moóc,...)
 - [x] Có âm thanh phát ra sau khi dịch chuyển (có thể cài đặt)
+- [x] Lưu dấu trang vị trí dịch chuyển (có thể dùng để dịch chuyển nhanh sau này)
 
 #### Rơ moóc
 
 - [x] Chỉnh sửa khối lượng rơ moóc
 - [x] Chỉnh sửa khối lượng hàng
-- [x] Mở khóa rơ moóc ở khu vực hạn chế (rơ moóc HCT, rơ moóc triple)
+- [x] Mở khóa rơ moóc ở khu vực hạn chế (rơ moóc HCT, rơ moóc triple, ...)
 - [x] Sửa rơ moóc
 - [ ] Sửa tất cả rơ moóc
 - [x] Đổi rơ moóc nhanh
@@ -90,7 +79,7 @@
 
 - [x] Độ chế xe cực kỳ flexible bằng editor
 - [x] Độ chế rơ moóc cực kỳ flexible bằng editor
-- [ ] Độ chế rơ moóc đôi và nhiều hơn
+- [x] Độ chế rơ moóc đôi và nhiều hơn
 - [x] Tạo biển số custom
 - [x] Lưu dữ liệu biển số
 - [x] Tránh conflict tập tin
@@ -110,6 +99,7 @@
 - [x] Tải lên hồ sơ
 - [ ] Đổi tên hồ sơ
 - [ ] Đổi tên công ty
+- [x] Chia sẻ GPS
 
 #### Cài đặt
 
@@ -118,8 +108,13 @@
 - [x] Cài đặt developer mode
 - [ ] Dark Mode
 - [ ] Đổi ngôn ngữ
-- [ ] Đổi convoy mode slot lên `128`
+- [x] Đổi convoy mode slot lên `128`
 - [x] Cài đặt backup (tự động backup sau khi chỉnh sửa file)
+- [x] Cài đặt tự động cập nhật lên phiên bản mới
+
+#### Khác
+- [x] Anti AFK + spam tin nhắn
+- [x] Cập nhật tự động
 
 #### Tính năng hữu ích có thể sẽ thêm trong tương lai
 
@@ -133,6 +128,14 @@
 <img alt="image" src="https://github.com/user-attachments/assets/d03da7b9-f803-4407-920e-e079685f77a8" width="30%" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/118c8910-8a60-48ac-9208-67daaf01e781" width="30%" />-->
+
+## Tổng hợp các lỗi thường gặp
+### Tôi không thể sử dụng công cụ được
+- Đảm bảo bạn truy cập được các tên miền sau, đây là các tên miền cần thiết để công cụ hoạt động:
+  - https://api.lsv.vn (Version, patcher)
+  - https://truckers.vn (UI)
+  - https://dl.gtavietnam.com (SCS Utils)
+  - Vui lòng đảm bảo cổng 18000 của bạn đang trống
 
 ## Ghi chú
 
