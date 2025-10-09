@@ -28,6 +28,7 @@
 - Bookmark vị trí teleport
 - Anti AFK
 - Kiểm soát phiên bản tập trung, tự động cập nhật lên phiên bản mới
+- Chia sẻ GPS
 
 ### Cần thử nghiệm (đã release nhưng vẫn trong giai đoạn thử nghiệm)
 
