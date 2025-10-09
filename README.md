@@ -27,6 +27,7 @@
 - Độ chế rơ moóc đôi và nhiều hơn
 - Bookmark vị trí teleport
 - Anti AFK
+- Kiểm soát phiên bản tập trung, tự động cập nhật lên phiên bản mới
 
 ### Cần thử nghiệm (đã release nhưng vẫn trong giai đoạn thử nghiệm)
 
