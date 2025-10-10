@@ -134,7 +134,8 @@
 - Đảm bảo bạn truy cập được các tên miền sau, đây là các tên miền cần thiết để công cụ hoạt động:
   - https://api.lsv.vn (Version, patcher)
   - https://truckers.vn (UI)
-  - https://dl.gtavietnam.com (SCS Utils)
+  - https://dl.gtavietnam.com - https://www.worldoftrucks.com/ (SCS Utils)
+  - https://dl.truckers.vn
   - Vui lòng đảm bảo cổng 18000 của bạn đang trống
 
 ## Ghi chú
