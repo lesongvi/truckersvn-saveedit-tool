@@ -37,6 +37,7 @@
 - Standardize import/export truck/trailer data
 - Hỗ trợ local mod
 - Quản lý radio
+- Chia sẻ job
 
 ### Chức năng đã hoàn thành
 
