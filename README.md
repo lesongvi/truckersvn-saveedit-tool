@@ -23,7 +23,7 @@
 - Nếu bạn chỉ cần decrypt file SII, bạn có thể qua tab "Save edit", chọn hồ sơ sau đó tiếp tục chọn folder chứa game.sii và info.sii mà bạn muốn decrypt. Công cụ sẽ decrypt nhanh cho bạn. Sau đó bạn có thể bấm nút "Mở thư mục file save đã chọn" để mở nhanh folder chứa file save đó và bắt đầu chỉnh sửa bằng notepad.
 
 ### Việc đang làm (có thể release trong phiên bản tiếp theo)
-- Chỉnh sửa biển số theo quốc gia
+
 
 ### Cần thử nghiệm (đã release nhưng vẫn trong giai đoạn thử nghiệm)
 
@@ -81,6 +81,8 @@
 - [x] Độ chế rơ moóc cực kỳ flexible bằng editor
 - [x] Độ chế rơ moóc đôi và nhiều hơn
 - [x] Tạo biển số custom
+- [x] Chỉnh sửa biển số theo quốc gia
+- [x] Lưu biển số để dễ chỉnh sửa sau này
 - [x] Lưu dữ liệu biển số
 - [x] Tránh conflict tập tin
 
