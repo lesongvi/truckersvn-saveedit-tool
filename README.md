@@ -23,7 +23,7 @@
 - Nếu bạn chỉ cần decrypt file SII, bạn có thể qua tab "Save edit", chọn hồ sơ sau đó tiếp tục chọn folder chứa game.sii và info.sii mà bạn muốn decrypt. Công cụ sẽ decrypt nhanh cho bạn. Sau đó bạn có thể bấm nút "Mở thư mục file save đã chọn" để mở nhanh folder chứa file save đó và bắt đầu chỉnh sửa bằng notepad.
 
 ### Việc đang làm (có thể release trong phiên bản tiếp theo)
-- ...
+- Improve updater
 
 ### Cần thử nghiệm (đã release nhưng vẫn trong giai đoạn thử nghiệm)
 
@@ -51,7 +51,10 @@
 - [x] Dịch chuyển nhanh (không cần thoát ra ứng dụng)
 - [x] Tự động cấu hình profile sau khi dịch chuyển (độ hao mòn các thành phần, độ hao mòn các thành phần không thể sửa chữa, khối lượng các thành phần, nhiên liệu, biển số, kết nối rơ-moóc,...)
 - [x] Có âm thanh phát ra sau khi dịch chuyển (có thể cài đặt)
-- [x] Lưu dấu trang vị trí dịch chuyển (có thể dùng để dịch chuyển nhanh sau này)
+- [x] Lưu dấu trang vị trí dịch chuyển (có thể dùng để dịch chuyển nhanh sau này) - hiển thị vị trí thanh dấu trang trên bản đồ
+- [x] Teleport bằng bản đồ (chỉ hỗ trợ ETS 2 + TMP)
+- [ ] Teleport bằng bản đồ (Promods EU)
+- [ ] Teleport bằng bản đồ (ATS)
 
 #### Rơ moóc
 
