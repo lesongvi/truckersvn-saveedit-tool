@@ -148,6 +148,9 @@
   - https://dl.gtavietnam.com - https://www.worldoftrucks.com/ (SCS Utils)
   - https://dl.truckers.vn
   - Vui lòng đảm bảo cổng 18000 của bạn đang trống
+  - https://notevn.com (take notes)
+### Tôi bị báo lỗi Telemetry không tồn tại
+- Coming soon
 
 ## Ghi chú
 
