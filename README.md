@@ -24,6 +24,7 @@
 
 ### Việc đang làm (có thể release trong phiên bản tiếp theo)
 - Improve updater
+- Access SCS SDK để improve các chức năng liên quan (Anti AFK)
 
 ### Cần thử nghiệm (đã release nhưng vẫn trong giai đoạn thử nghiệm)
 
@@ -55,6 +56,7 @@
 - [x] Teleport bằng bản đồ (chỉ hỗ trợ ETS 2 + TMP)
 - [ ] Teleport bằng bản đồ (Promods EU)
 - [ ] Teleport bằng bản đồ (ATS)
+- [x] Hiển thị vị trí hiện tại theo thời gian thực trên bản đồ teleport (bạn có thể lưu bookmark)
 
 #### Rơ moóc
 
@@ -91,6 +93,7 @@
 - [x] Lưu biển số để dễ chỉnh sửa sau này
 - [x] Lưu dữ liệu biển số
 - [x] Tránh conflict tập tin
+- [ ] Trình chỉnh sửa save edit có màu trực quan, autocomplete, spellcheck cho riêng SII.
 
 #### Hồ sơ
 
