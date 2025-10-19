@@ -25,12 +25,15 @@
 ### Việc đang làm (có thể release trong phiên bản tiếp theo)
 - Improve updater
 - Access SCS SDK để improve các chức năng liên quan (Anti AFK)
+- Plugin management
 
 ### Cần thử nghiệm (đã release nhưng vẫn trong giai đoạn thử nghiệm)
 
 - Tất cả chức năng liên quan tới save edit
 - Đặc biệt là:
   - Import/export rơ moóc
+- Lưu vị trí theo vị trí hiện tại gửi từ telemetry
+
 ### Việc sẽ lên dự định làm (chưa lên kế hoạch release)
 
 - ATS compatibility (full)
