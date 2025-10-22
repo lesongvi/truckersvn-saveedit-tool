@@ -1,6 +1,6 @@
 <img align="center" src="https://cdn3.notevn.com/lMnAG2XDhd.png" />
 
-# TruckersVN Saveedit tool (công cụ saveedit nhẹ nhất thời điểm hiện tại, chưa tới 4 MB)
+# TruckersVN Tool (Save editor nhẹ nhất thời điểm hiện tại, chưa tới 4 MB)
 
 ## Vui lòng truy cập [trang Releases](https://github.com/lesongvi/truckersvn-saveedit-tool/releases) để tải về phiên bản mới nhất.
 
