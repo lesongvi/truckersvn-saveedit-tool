@@ -1,3 +1,5 @@
+<img align="center" src="https://cdn3.notevn.com/lMnAG2XDhd.png" />
+
 # TruckersVN Saveedit tool (công cụ saveedit nhẹ nhất thời điểm hiện tại, chưa tới 4 MB)
 
 ## Vui lòng truy cập [trang Releases](https://github.com/lesongvi/truckersvn-saveedit-tool/releases) để tải về phiên bản mới nhất.
@@ -96,7 +98,8 @@
 - [x] Lưu biển số để dễ chỉnh sửa sau này
 - [x] Lưu dữ liệu biển số
 - [x] Tránh conflict tập tin
-- [ ] Trình chỉnh sửa save edit có màu trực quan, autocomplete, spellcheck cho riêng SII.
+- [x] Trình chỉnh sửa save edit có màu trực quan, autocomplete, spellcheck cho riêng SII.
+- [ ] More advanced data_path suggestion
 
 #### Hồ sơ
 
@@ -111,8 +114,7 @@
 - [ ] Clone hồ sơ
 - [x] Tải lên tập tin save
 - [x] Tải lên hồ sơ
-- [ ] Đổi tên hồ sơ
-- [ ] Đổi tên công ty
+- [x] Đổi tên công ty
 - [x] Chia sẻ GPS
 
 #### Cài đặt
@@ -152,7 +154,8 @@
   - https://dl.truckers.vn
   - Vui lòng đảm bảo cổng 18000 của bạn đang trống
   - https://notevn.com (take notes)
-### Tôi bị báo lỗi Telemetry không tồn tại
+
+### Tôi bị báo lỗi "Telemetry không tồn tại"
 - Coming soon
 
 ## Ghi chú
