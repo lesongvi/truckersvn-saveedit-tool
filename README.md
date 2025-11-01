@@ -25,9 +25,7 @@
 - Nếu bạn chỉ cần decrypt file SII, bạn có thể qua tab "Save edit", chọn hồ sơ sau đó tiếp tục chọn folder chứa game.sii và info.sii mà bạn muốn decrypt. Công cụ sẽ decrypt nhanh cho bạn. Sau đó bạn có thể bấm nút "Mở thư mục file save đã chọn" để mở nhanh folder chứa file save đó và bắt đầu chỉnh sửa bằng notepad.
 
 ### Việc đang làm (có thể release trong phiên bản tiếp theo)
-- Improve updater
-- Access SCS SDK để improve các chức năng liên quan (Anti AFK)
-- Plugin management
+- ...
 
 ### Cần thử nghiệm (đã release nhưng vẫn trong giai đoạn thử nghiệm)
 
@@ -44,6 +42,9 @@
 - Hỗ trợ local mod
 - Quản lý radio
 - Chia sẻ job
+- Improve updater
+- Access SCS SDK để improve các chức năng liên quan (Anti AFK)
+- Plugin management
 
 ### Chức năng đã hoàn thành
 
