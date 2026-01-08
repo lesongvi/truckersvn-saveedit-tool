@@ -61,7 +61,7 @@
 - [x] Tự động cấu hình profile sau khi dịch chuyển (độ hao mòn các thành phần, độ hao mòn các thành phần không thể sửa chữa, khối lượng các thành phần, nhiên liệu, biển số, kết nối rơ-moóc,...)
 - [x] Có âm thanh phát ra sau khi dịch chuyển (có thể cài đặt)
 - [x] Lưu dấu trang vị trí dịch chuyển (có thể dùng để dịch chuyển nhanh sau này) - hiển thị vị trí thanh dấu trang trên bản đồ
-- [x] Teleport bằng bản đồ (chỉ hỗ trợ ETS 2 + TMP)
+- [x] Teleport bằng bản đồ (chỉ hỗ trợ ETS 2 + TMP) - Bản đồ dịch chuyển hỗ trợ DLC mới nhất "Nordic Horizons"
 - [ ] Teleport bằng bản đồ (Promods EU)
 - [ ] Teleport bằng bản đồ (ATS)
 - [x] Hiển thị vị trí hiện tại theo thời gian thực trên bản đồ teleport (bạn có thể lưu bookmark)
@@ -76,7 +76,7 @@
 - [x] Đổi rơ moóc nhanh
 - [x] Export rơ moóc
 - [x] Import rơ moóc
-- [x] Sao chép rơ moóc của người chơi khác
+- [x] Sao chép rơ moóc của người chơi khác (kể cả rơ moóc phụ, trên tất cả server)
 
 #### Xe tải
 
@@ -89,13 +89,14 @@
 - [x] Đổi xe nhanh
 - [x] Export xe tải
 - [x] Import xe tải
-- [x] Sao chép xe tải của người chơi khác
+- [x] Sao chép xe tải của người chơi khác (trên tất cả server)
 
 #### Save edit
 
 - [x] Độ chế xe cực kỳ flexible bằng editor
 - [x] Độ chế rơ moóc cực kỳ flexible bằng editor
 - [x] Độ chế rơ moóc đôi và nhiều hơn
+- [x] Chỉnh sửa định nghĩa rơ moóc
 - [x] Tạo biển số custom
 - [x] Chỉnh sửa biển số theo quốc gia
 - [x] Lưu biển số để dễ chỉnh sửa sau này
@@ -103,6 +104,7 @@
 - [x] Tránh conflict tập tin
 - [x] Trình chỉnh sửa save edit có màu trực quan, autocomplete, spellcheck cho riêng SII.
 - [ ] More advanced data_path suggestion
+- [x] Hỗ trợ xem/lọc ingame/crash log bằng regex theo game ngay trên UI
 
 #### Hồ sơ
 
@@ -112,7 +114,7 @@
 - [x] Mở khóa thành phố
 - [x] Mở khóa đại lý bán xe
 - [x] Mở khóa kỹ năng
-- [ ] Backup hồ sơ
+- [x] Backup/Restore hồ sơ
 - [x] Backup hồ sơ (tự động)
 - [ ] Clone hồ sơ
 - [x] Tải lên tập tin save
@@ -157,6 +159,12 @@
   - https://dl.truckers.vn
   - Vui lòng đảm bảo cổng 18000 của bạn đang trống
   - https://notevn.com (take notes)
+ 
+### Bị lag khi sử dụng trang web
+<img width="1920" height="1042" alt="image" src="https://github.com/user-attachments/assets/bf22e6e7-ce9f-469d-9206-a4c067280ad9" />
+- Vào cài đặt trình duyệt của bạn
+- Tìm "Use graphics acceleration when available" hoặc "acceleration", và enable tùy chọn liên quan lên.
+
 
 ### Tôi bị báo lỗi "Telemetry không tồn tại"
 - Coming soon
