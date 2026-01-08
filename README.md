@@ -162,6 +162,7 @@
  
 ### Bị lag khi sử dụng trang web
 <img width="1920" height="1042" alt="image" src="https://github.com/user-attachments/assets/bf22e6e7-ce9f-469d-9206-a4c067280ad9" />
+
 - Vào cài đặt trình duyệt của bạn
 - Tìm "Use graphics acceleration when available" hoặc "acceleration", và enable tùy chọn liên quan lên.
 
