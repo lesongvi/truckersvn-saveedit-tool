@@ -1,4 +1,4 @@
-<img align="center" src="https://cdn3.notevn.com/lMnAG2XDhd.png" />
+<img align="center" src="https://truckers.vn/images/logo.png" />
 
 # TruckersVN Tool (Save editor nhẹ nhất thời điểm hiện tại, chưa tới 4 MB)
 
