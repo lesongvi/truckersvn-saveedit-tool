@@ -2,15 +2,31 @@
 
 # TruckersVN Tool (Save editor nhẹ nhất thời điểm hiện tại, chưa tới 4 MB)
 
-## Vui lòng truy cập [trang Releases](https://github.com/lesongvi/truckersvn-saveedit-tool/releases) để tải về phiên bản mới nhất.
+## Truy cập trang [TruckersVN Tool](https://truckers.vn/tools/tvn-tool) để tải về phiên bản mới nhất.
 
-<img width="1920" height="992" alt="image" src="https://github.com/user-attachments/assets/ffd05580-7dcf-435b-8978-5ed8734172a9" />
+<table border="0">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./demo.png" alt="Demo 1" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./demo2.png" alt="Demo 2" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="./demo3.png" alt="Demo 3" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## Tính năng Save edit của công cụ vẫn đang trong giai đoạn BETA, hãy đảm bảo cài đặt "Tự động sao lưu" được bật trong cấu hình công cụ, ngoài ra, hãy cứ sao lưu một thư mục hồ sơ mới. Bạn có thể sử dụng chức năng tải lên hồ sơ hoặc file save nếu hồ sơ của bạn quá lớn.
 
 ## Tại sao lại là công cụ nhẹ nhất hiện tại?
 
 - TruckersVN Tool hoàn toàn bỏ đi sự cần thiết của việc phải chạy UI bên trên máy tính người dùng. Thay vào đó, người dùng chỉ cần điều khiển công cụ qua web browser. Dưới máy tính chỉ cần cài đặt một chương trình nhỏ gọn (chưa tới 4 MB) để giao tiếp với trình duyệt và xử lý các tác vụ saveedit.
+
+## Từ 1.0.43, TruckersVN Tool đã hỗ trợ đa hệ điều hành!
 
 ## Cách sử dụng TruckersVN Tool
 
@@ -105,6 +121,7 @@
 - [x] Trình chỉnh sửa save edit có màu trực quan, autocomplete, spellcheck cho riêng SII.
 - [ ] More advanced data_path suggestion
 - [x] Hỗ trợ xem/lọc ingame/crash log bằng regex theo game ngay trên UI
+- [x] Hỗ trợ đa hệ điều hành (Windows, Linux, macOS/Unix)
 
 #### Hồ sơ
 
@@ -152,6 +169,13 @@
 
 ## Tổng hợp các lỗi thường gặp
 ### Tôi không thể sử dụng công cụ được
+- Đảm bảo bạn đang mở công cụ, kiểm tra góc phải phía dưới xem có logo HG Logistics đang hiển thị hay không.
+
+- Đảm bảo bạn đã giải nén công cụ ra một thư mục thay vì chạy trực tiếp trong file nén.
+
+- Đảm bảo bạn đã cho phép trang web quyền "Truy cập vào các ứng dụng và dịch vụ khác trên thiết bị này" để có thể quét được công cụ.  
+![](./permission.png)
+
 - Đảm bảo bạn truy cập được các tên miền sau, đây là các tên miền cần thiết để công cụ hoạt động:
   - https://api.lsv.vn (Version, patcher)
   - https://truckers.vn (UI)
