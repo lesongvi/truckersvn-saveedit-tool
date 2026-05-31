@@ -7,15 +7,15 @@
 <table border="0">
   <tr>
     <td colspan="2" align="center">
-      <img src="./demo.png" alt="Demo 1" width="100%" />
+      <img src="./assets/demo.png" alt="Demo 1" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="./demo2.png" alt="Demo 2" width="100%" />
+      <img src="./assets/demo2.png" alt="Demo 2" width="100%" />
     </td>
     <td width="50%">
-      <img src="./demo3.png" alt="Demo 3" width="100%" />
+      <img src="./assets/demo3.png" alt="Demo 3" width="100%" />
     </td>
   </tr>
 </table>
@@ -169,12 +169,13 @@
 
 ## Tổng hợp các lỗi thường gặp
 ### Tôi không thể sử dụng công cụ được
-- Đảm bảo bạn đang mở công cụ, kiểm tra góc phải phía dưới xem có logo HG Logistics đang hiển thị hay không.
+- Đảm bảo bạn đang mở công cụ, kiểm tra góc phải phía dưới xem có logo HG Logistics đang hiển thị hay không.  
+![](./assets/demo4.png)
 
 - Đảm bảo bạn đã giải nén công cụ ra một thư mục thay vì chạy trực tiếp trong file nén.
 
 - Đảm bảo bạn đã cho phép trang web quyền "Truy cập vào các ứng dụng và dịch vụ khác trên thiết bị này" để có thể quét được công cụ.  
-![](./permission.png)
+![](./assets/permission.png)
 
 - Đảm bảo bạn truy cập được các tên miền sau, đây là các tên miền cần thiết để công cụ hoạt động:
   - https://api.lsv.vn (Version, patcher)
