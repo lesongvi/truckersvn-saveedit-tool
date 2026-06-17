@@ -176,6 +176,8 @@
 
 - Đảm bảo bạn đã cho phép trang web quyền "Truy cập vào các ứng dụng và dịch vụ khác trên thiết bị này" để có thể quét được công cụ.  
 ![](./assets/permission.png)
+<img width="336" height="357" alt="image" src="https://github.com/user-attachments/assets/1adb9140-aacc-4a4e-80a4-3859e4a0ee09" />
+
 
 - Đảm bảo bạn truy cập được các tên miền sau, đây là các tên miền cần thiết để công cụ hoạt động:
   - https://api.lsv.vn (Version, patcher)
