@@ -1,4 +1,6 @@
-<img align="center" src="https://truckers.vn/images/logo.png" />
+<img align="center" src="https://truckers.vn/images/v2/brand/HGL_FULL_COLORED.png" />
+
+# Hiện đã có phiên bản GUI song song với phiên bản headless. Truy cập trang [TruckersVN Tool](https://truckers.vn/tools/tvn-tool) để tải về phiên bản mới nhất.
 
 # TruckersVN Tool (Save editor nhẹ nhất thời điểm hiện tại, chưa tới 4 MB)
 
