@@ -1,32 +1,46 @@
 <img align="center" src="https://truckers.vn/images/v2/brand/HGL_FULL_COLORED.png" />
 
-# Hiện đã có phiên bản GUI song song với phiên bản headless. Truy cập trang [TruckersVN Tool](https://truckers.vn/tools/tvn-tool) để tải về phiên bản mới nhất.
+# TruckersVN Tool
 
-# TruckersVN Tool (Save editor nhẹ nhất thời điểm hiện tại, chưa tới 4 MB)
+**Công cụ save edit cho Euro Truck Simulator 2 và American Truck Simulator** - sửa xe tải, rơ moóc, hồ sơ, dịch chuyển nhanh và **xem 3D chiếc xe của bạn ngay trong công cụ** từ chính dữ liệu game.
 
 ## Truy cập trang [TruckersVN Tool](https://truckers.vn/tools/tvn-tool) để tải về phiên bản mới nhất.
 
 <table border="0">
   <tr>
     <td colspan="2" align="center">
-      <img src="./assets/demo.png" alt="Demo 1" width="100%" />
+      <img src="./assets/tool-3d.png" alt="Xem 3D xe tải với màu sơn và họa tiết" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="./assets/demo2.png" alt="Demo 2" width="100%" />
+      <img src="./assets/tool-garage.png" alt="Danh sách xe có ảnh xem trước" width="100%" />
     </td>
     <td width="50%">
-      <img src="./assets/demo3.png" alt="Demo 3" width="100%" />
+      <img src="./assets/tool-3d-pick.png" alt="Rê chuột để xem tên từng bộ phận" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./assets/tool-customize.png" alt="Độ chế xe bằng trình chỉnh sửa có màu và autocomplete" width="100%" />
     </td>
   </tr>
 </table>
 
+## Điểm nổi bật
+
+- **Xem 3D xe tải, rơ moóc và từng bộ phận** được dựng trực tiếp từ dữ liệu game - đúng bộ phận bạn đang lắp, đúng màu sơn, biển số, cờ, accessories, đèn phụ,...
+- **Rê chuột để xem tên bộ phận, bấm để chọn** và nhảy thẳng tới phần mã của bộ phận đó. Có thể bật/tắt màu sơn để nhìn rõ các bộ phận bên dưới.
+- **Ảnh xem trước cho từng xe** trong danh sách chọn xe, tự tạo ở nền và chỉ làm mới khi xe của bạn thay đổi.
+- **Độ chế xe và rơ moóc cực kỳ linh hoạt** bằng trình chỉnh sửa có tô màu cú pháp, autocomplete và kiểm tra lỗi cho SII.
+- Dịch chuyển nhanh (kể cả bằng bản đồ), sửa chữa, nạp nhiên liệu, đổi động cơ/hộp số, import/export xe tải và rơ moóc, sao lưu hồ sơ tự động, Anti AFK và nhiều hơn nữa.
+- Xem 3D chỉ đọc dữ liệu của bạn: không sửa file save, không tải bất cứ thứ gì lên nếu bạn không yêu cầu.
+
 ## Tính năng Save edit của công cụ vẫn đang trong giai đoạn BETA, hãy đảm bảo cài đặt "Tự động sao lưu" được bật trong cấu hình công cụ, ngoài ra, hãy cứ sao lưu một thư mục hồ sơ mới. Bạn có thể sử dụng chức năng tải lên hồ sơ hoặc file save nếu hồ sơ của bạn quá lớn.
 
-## Tại sao lại là công cụ nhẹ nhất hiện tại?
+## Giao diện và phiên bản headless
 
-- TruckersVN Tool hoàn toàn bỏ đi sự cần thiết của việc phải chạy UI bên trên máy tính người dùng. Thay vào đó, người dùng chỉ cần điều khiển công cụ qua web browser. Dưới máy tính chỉ cần cài đặt một chương trình nhỏ gọn (chưa tới 4 MB) để giao tiếp với trình duyệt và xử lý các tác vụ saveedit.
+- TruckersVN Tool có giao diện máy tính (GUI) chạy song song với phiên bản headless nhẹ - điều khiển qua trình duyệt tại [truckers.vn/tools/tvn-tool](https://truckers.vn/tools/tvn-tool). Hãy tải phiên bản mới nhất ở trên để dùng giao diện đầy đủ, bao gồm cả Xem 3D.
 
 ## Từ 1.0.43, TruckersVN Tool đã hỗ trợ đa hệ điều hành!
 
@@ -95,6 +109,17 @@
 - [x] Export rơ moóc
 - [x] Import rơ moóc
 - [x] Sao chép rơ moóc của người chơi khác (kể cả rơ moóc phụ, trên tất cả server)
+
+#### Xem 3D
+
+- [x] Xem 3D xe tải và rơ moóc theo đúng bộ phận đã lắp trong save
+- [x] Xem 3D từng bộ phận riêng lẻ ngay trong trình chỉnh sửa
+- [x] Màu sơn, họa tiết sơn (livery, airbrush) và bật/tắt màu sơn
+- [x] Biển số (trước và sau), cờ, linh vật gắn ngoài xe (mascot) và đèn phụ
+- [x] Rê chuột xem tên bộ phận, bấm để chọn và nhảy tới phần mã
+- [x] Ảnh xem trước từng xe trong danh sách, tự làm mới khi xe thay đổi
+- [x] Hỗ trợ bộ phận từ mod (.scs, .zip) và các phiên bản định dạng dữ liệu game gần đây
+- [ ] Một số chi tiết chưa được dựng chính xác (một số vật liệu, decal nhỏ) - đang tiếp tục cải thiện
 
 #### Xe tải
 
